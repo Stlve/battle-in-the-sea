@@ -1,0 +1,72 @@
+# Exported from 3D Builder
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd parchmnt.jpg.jpeg
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd 
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd box.jpg.jpeg
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd container1-1.jpg.jpeg
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd container1-2.jpg.jpeg
+
+newmtl Mat_5
+Kd 1.000000 1.000000 1.000000
+map_Kd 3d66Model-577096-files-16.jpg.jpeg
+
+newmtl Mat_6
+Kd 1.000000 1.000000 1.000000
+map_Kd container2-1.jpg.jpeg
+
+newmtl Mat_7
+Kd 1.000000 1.000000 1.000000
+map_Kd container2-2.jpg.jpeg
+
+newmtl Mat_8
+Kd 1.000000 1.000000 1.000000
+map_Kd container3-1.jpg.jpeg
+
+newmtl Mat_9
+Kd 1.000000 1.000000 1.000000
+map_Kd container3-2.jpg.jpeg
+
+newmtl Mat_10
+Kd 1.000000 1.000000 1.000000
+map_Kd container4.jpg.jpeg
+
+newmtl Mat_11
+Kd 1.000000 1.000000 1.000000
+map_Kd house-1.jpg.jpeg
+
+newmtl Mat_12
+Kd 1.000000 1.000000 1.000000
+map_Kd house-2.jpg.jpeg
+
+newmtl Mat_13
+Kd 1.000000 1.000000 1.000000
+map_Kd house-3.jpg.jpeg
+
+newmtl Mat_14
+Kd 1.000000 1.000000 1.000000
+map_Kd house-4.jpg.jpeg
+
+newmtl Mat_15
+Kd 1.000000 1.000000 1.000000
+map_Kd house-5.jpg.jpeg
+
+newmtl Mat_16
+Kd 1.000000 1.000000 1.000000
+map_Kd 3d66Model-577096-files-21.jpg.jpeg
+
+newmtl Green_0
+Kd 0.129412 0.733333 0.298039
